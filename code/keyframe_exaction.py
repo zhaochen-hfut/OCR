@@ -6,7 +6,7 @@ Created on Tue Aug  4 09:46:07 2020
 """
 
 import cv2
-from math import *
+import math
 import numpy as np
 from scipy.signal import argrelextrema
 from decorate import logger
